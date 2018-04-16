@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IGapi</string>
+    <string name="offer">Offer:</string>
+    <string name="default_country">UK</string>
+    <string name="uk_locale">en_GB</string>
+    <string name="germany_locale">de_DE</string>
+    <string name="france_locale">fr_FR</string>
+    <string name="default_locale" />
+    <string name="uk_country_code">igi</string>
+    <string name="germany_country_code">dem</string>
+    <string name="france_country_code">frm</string>
+    <string name="default_country_code" />
+    <string-array name="countries">
+        <item>UK</item>
+        <item>Germany</item>
+        <item>France</item>
+    </string-array>
+</resources>
